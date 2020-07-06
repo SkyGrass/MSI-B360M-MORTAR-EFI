@@ -12,3 +12,5 @@ CPUFriendDataPrivider.kext
 去掉引导参数igfxfw=2
 
 睡眠正常
+
+新增 图形显示器 Metal 功能集支持! 
